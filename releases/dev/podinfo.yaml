@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: ryedin/podinfo
-      tag: dev-9rqgkalf
+      tag: dev-ujsxlor0
     replicaCount: 1
     hpa:
       enabled: false
